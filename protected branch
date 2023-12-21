@@ -1,0 +1,1 @@
+in the protected branch means we can send only to the working code by testing the code in some other branch and from there pull to master so that only working code will be present
